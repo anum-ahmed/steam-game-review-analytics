@@ -16,7 +16,7 @@ An end-to-end machine learning project for analysing toxic user behaviour and pr
 
 <td width="55%" valign="top">
 
-## 📖 Project Overview
+## Project Overview
 
 This project investigates toxic behaviour and user risk patterns in online gaming communities using Steam game review data.
 
@@ -36,7 +36,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 <td width="45%" valign="top">
 
-## 🔄 Project Workflow
+## Project Workflow
 
 <img src="YOUR_WORKFLOW_IMAGE" width="100%">
 
@@ -47,7 +47,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyse toxic behaviour in Steam game reviews.
 - Classify reviews into four toxicity levels: **Normal**, **Mild**, **Moderate**, and **Severe**.
@@ -58,7 +58,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Category | Technologies |
 |-----------|--------------|
@@ -72,7 +72,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 Three supervised machine learning algorithms were developed and compared.
 
@@ -91,7 +91,7 @@ Performance was evaluated using:
 
 ---
 
-## 🏆 Key Results
+## Key Results
 
 | Prediction Task | Best Model | Accuracy |
 |----------------|-----------|----------|
@@ -107,7 +107,7 @@ Performance was evaluated using:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 steam-game-review-analytics/
@@ -121,7 +121,7 @@ steam-game-review-analytics/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the repository
 
@@ -145,7 +145,7 @@ steam_game_review_analytics.ipynb
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Dataset:** Steam Game Reviews Dataset
 - **Source:** Kaggle
@@ -157,7 +157,7 @@ The dataset contains review text, gameplay statistics, recommendation status, us
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Anum Ahmed**
 
@@ -175,7 +175,7 @@ YOUR_LINKEDIN_URL
 
 ---
 
-## 📄 License
+##  License
 
 This project is released under the MIT License.
 
@@ -183,7 +183,7 @@ See the **LICENSE** file for more information.
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 Potential future improvements include:
 
