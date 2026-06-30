@@ -38,7 +38,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 ## Project Workflow
 
-<img src="YOUR_WORKFLOW_IMAGE" width="100%">
+<img src="images/workflow.png" width="100%">
 
 </td>
 
