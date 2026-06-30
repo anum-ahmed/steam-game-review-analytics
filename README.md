@@ -7,7 +7,7 @@
 ![SHAP](https://img.shields.io/badge/Explainable%20AI-SHAP-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An end-to-end machine learning project for analysing toxic user behaviour and predicting player risk using Steam game reviews, behavioural analytics, and explainable AI.
+This project presents an end-to-end machine learning framework for analysing toxic behaviour in online gaming communities using Steam review data. The workflow includes data preprocessing, behavioural feature engineering, toxicity classification, user risk profiling, model evaluation, and explainable AI (SHAP) for model interpretation.
 
 ---
 
@@ -97,6 +97,28 @@ Performance was evaluated using:
 |----------------|-----------|----------|
 | Toxicity Classification | XGBoost | **99.82%** |
 | User Risk Classification | XGBoost | **99.70%** |
+
+### Toxicity Distribution
+
+<p align="center">
+  <img src="images/toxicity_distribution.png" width="700">
+</p>
+
+---
+
+### Machine Learning Performance
+
+<p align="center">
+  <img src="images/model_accuracy_comparison.png" width="700">
+</p>
+
+---
+
+### Explainable AI (SHAP)
+
+<p align="center">
+  <img src="images/shap_analysis.png" width="700">
+</p>
 
 ### Highlights
 
