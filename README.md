@@ -193,7 +193,7 @@ https://github.com/anum-ahmed
 
 **LinkedIn**
 
-YOUR_LINKEDIN_URL
+www.linkedin.com/in/anum-ahmed-24aa3931b
 
 ---
 
