@@ -14,7 +14,7 @@ An end-to-end machine learning project for analysing toxic user behaviour and pr
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ## Project Overview
 
@@ -34,7 +34,7 @@ The study combines natural language processing, behavioural analytics, feature e
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 ## Project Workflow
 
